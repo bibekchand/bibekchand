@@ -1,10 +1,9 @@
-[![MasterHead](https://img.freepik.com/free-vector/gradient-lo-fi-illustrations_52683-82982.jpg?t=st=1730874233~exp=1730877833~hmac=723127b931be652f7c1572b7cb1c0f5a5cbde2e8e9a83ee79edfa49260baa4e5&w=900)
+![MasterHead](https://pbs.twimg.com/media/FLicViFaMAE1U7D?format=jpg&name=large)
 <h1 align="center">Hi 👋, I'm Bibek</h1>
 <h3 align="center">I am a student from Nepal</h3>
-img align="right" alt="Coding" width="400 src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibekchand" alt="bibekchand" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@bibekchand843" target="blank"><img src="https://img.shields.io/twitter/follow/@bibekchand843?logo=twitter&style=for-the-badge" alt="@bibekchand843" /></a> </p>
+<img align="right" width="400"  src = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekchand&label=Profile%20views&color=0e75b6&style=flat" alt="bibekchand" /> </p>
+<p align="left"> <a href="https://twitter.com/bibekchand843" target="blank"><img src="https://img.shields.io/twitter/follow/bibekchand843?logo=twitter&style=for-the-badge" alt="bibekchand843" /></a> </p>
 
 - 🔭 I’m currently studying **Electronic, Communication and Information Engineering**
 
@@ -16,8 +15,7 @@ img align="right" alt="Coding" width="400 src="https://miro.medium.com/v2/resize
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@bibekchand843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bibekchand843" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bibek-chand-7b4112234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bibek-chand-7b4112234/" height="30" width="40" /></a>
+<a href="https://twitter.com/bibekchand843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bibekchand843" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bibekchand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bibekchand" height="30" width="40" /></a>
 </p>
 
@@ -29,4 +27,3 @@ img align="right" alt="Coding" width="400 src="https://miro.medium.com/v2/resize
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibekchand&show_icons=true&locale=en" alt="bibekchand" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibekchand&" alt="bibekchand" /></p>
-
